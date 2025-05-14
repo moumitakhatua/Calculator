@@ -1,2 +1,2 @@
 # Calculator
-It is a project HTML,CSS and Javascript
+It is a project using HTML,CSS and Javascript
